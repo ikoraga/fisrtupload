@@ -65,6 +65,7 @@ body {
 /* SECOND */
 .tittle-second {
   font-size: 1.5rem;
+  padding: 2em;
 }
 .second-container {
   display: flex;
